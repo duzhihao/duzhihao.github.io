@@ -1,3 +1,3 @@
 git add *
 git commit
-git push master origin
+git push origin master
